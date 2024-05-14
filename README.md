@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently an undergrad student majoring in Computer Science and Engineering.<br>🌱 I'm learning Full Stack Web Development.
+Currently an undergrad student specializing in Computer Science and Engineering.<br> Learning Full Stack Web Development these days.
 
 
 ## 🌐 Socials:
