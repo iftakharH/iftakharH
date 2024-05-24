@@ -1,5 +1,5 @@
-# 💫 About Me:
-Currently an undergrad student specializing in Computer Science and Engineering.<br> Learning Full Stack Web Development these days.
+#  About Me:
+Currently, a CS undergrad student.<br> Learning Full Stack Web Development these days besides Python and JavaScript.
 
 
 ## 🌐 Socials:
