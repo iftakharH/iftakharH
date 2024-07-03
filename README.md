@@ -13,13 +13,13 @@
 
 - 📝 I regularly write articles on [https://dev.to/iftakharh](https://dev.to/iftakharh)
 
-- 💬 Ask me about **c, cpp, javascript**
+- 💬 Ask me about **c, cpp, js**
 
 - 📫 How to reach me **ihrafi02ctg@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bC_UgvhHKLb7TMIawakVkVKzBNjRHE0l/view](https://drive.google.com/file/d/1bC_UgvhHKLb7TMIawakVkVKzBNjRHE0l/view)
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think I am petrol pump⛽.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
