@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ihrafi02ctg@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bC_UgvhHKLb7TMIawakVkVKzBNjRHE0l/view](https://drive.google.com/file/d/1bC_UgvhHKLb7TMIawakVkVKzBNjRHE0l/view)
+- 📄 Know about my experiences [Resume](https://tinyurl.com/resume-iftakhar-hossain-rafi)
 
 - ⚡ Fun fact **I think I am petrol pump⛽.**
 
