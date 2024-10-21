@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakharh&label=Profile%20views&color=0e75b6&style=flat" alt="iftakharh" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/iftakharH/portfolio_iftakharH)
+- 🔭 I’m currently working on [Portfolio](https://github.com/iftakharH/iftakharH-Portfolio)
 
 - 🌱 I’m currently learning **JavaScript, Python**
 
