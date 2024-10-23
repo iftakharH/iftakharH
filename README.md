@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD IFTAKHAR HOSSAIN RAFI</h1>
-<h3 align="center">A passionate CS undergrad from Bangladesh</h3>
+<h3 align="center">A passionate CS undergrad @ EDU from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakharh&label=Profile%20views&color=0e75b6&style=flat" alt="iftakharh" /> </p>
 
