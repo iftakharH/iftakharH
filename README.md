@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MD IFTAKHAR HOSSAIN RAFI</h1>
-<h3 align="center">A passionate CS undergrad @ EDU from Bangladesh</h3>
+<h3 align="center">A passionate CS undergrad @ EDU,Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakharh&label=Profile%20views&color=0e75b6&style=flat" alt="iftakharh" /> </p>
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/iftakharH/iftakharH-Portfolio)
 
-- 🌱 I’m currently learning **JavaScript, Python**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on [c_projects(Mini)](https://github.com/iftakharH/C_Projects)
 
