@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakharh&label=Profile%20views&color=0e75b6&style=flat" alt="iftakharh" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/iftakharH/iftakharH-Portfolio)
+- 🔭 I’m currently working on [Portfolio](https://github.com/iftakharH/)
 
 - 🌱 I’m currently learning **Full Stack Development**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ihrafi02ctg@gmail.com**
 
-- 📄 Know about my experiences in [Resume](https://tinyurl.com/resume-of-iftakhar-hossain)
+- 📄 Know about my experiences in [Portfolio](https://iftakharh.vercel.app/)
 
 - ⚡ Fun fact **I think I am petrol pump⛽.**
 
