@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD IFTAKHAR HOSSAIN RAFI</h1>
+<h1 align="center">Hi 👋, I'm IFTAKHAR HOSSAIN RAFI</h1>
 <h3 align="center">A passionate CS undergrad @ EDU,Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakharh&label=Profile%20views&color=0e75b6&style=flat" alt="iftakharh" /> </p>
@@ -18,8 +18,6 @@
 - 📫 How to reach me **ihrafi02ctg@gmail.com**
 
 - 📄 Know about my experiences in [Portfolio](https://iftakharh.vercel.app/)
-
-- ⚡ Fun fact **I think I am petrol pump⛽.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
