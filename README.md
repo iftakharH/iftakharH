@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakharh&label=Profile%20views&color=0e75b6&style=flat" alt="iftakharh" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/iftakharH/)
+- 🔭 I’m currently working on [Portfolio](https://github.com/unimate/)
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on [c_projects(Mini)](https://github.com/iftakharH/C_Projects)
+- 👯 I’m looking to collaborate on [unimate](https://github.com/iftakharH/unimate)
 
 - 👨‍💻 All of my projects are available at [https://github.com/iftakharH](https://github.com/iftakharH)
 
