@@ -1,38 +1,20 @@
 <h1 align="center">Hi 👋, I'm IFTAKHAR HOSSAIN RAFI</h1>
 <h3 align="center">A passionate CS undergrad @ EDU,Bangladesh</h3>
-----------------------------------------------------
 
 Founding Purple Tech, a company that builds own web apps to solve some real life problems, also ready to provides services.
-
 Computer Science Undergrad @ East Delta University.
 
 * 🌍  I'm based in Chattogram, Bangladesh
 * 🖥️  See my portfolio at [Portfolio](http://iftakharh.vercel.app)
-* ✉️  You can contact me at [ihrafi02ctg@gmail.com](mailto:ihrafi02ctg@gmail.com)
+* ✉️  You can contact me at [mail](mailto:ihrafi02ctg@gmail.com)
 * 🚀  I'm currently working on [Unimate](http://unimate-purple.vercel.app)
 * 🧠  I'm currently learning Backend Perfectly
 * 👥  I'm looking to collaborate on any interesting projects
-* 💬  Ask me about A car guy, Spiderman
+* 💬  Ask me about cars
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakharh&label=Profile%20views&color=0e75b6&style=flat" alt="iftakharh" /> </p>
-
-- 🔭 I’m currently working on [Portfolio](https://github.com/unimate/)
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 👯 I’m looking to collaborate on [unimate](https://github.com/iftakharH/unimate)
-
-- 👨‍💻 All of my projects are available at [https://github.com/iftakharH](https://github.com/iftakharH)
-
-- 📝 I regularly write articles on [https://dev.to/iftakharh](https://dev.to/iftakharh)
-
-- 💬 Ask me about **c, cpp, js**
-
-- 📫 How to reach me **ihrafi02ctg@gmail.com**
-
-- 📄 Know about my experiences in [Portfolio](https://iftakharh.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
