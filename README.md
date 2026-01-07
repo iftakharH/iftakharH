@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm IFTAKHAR HOSSAIN RAFI</h1>
-<h3 align="center">A passionate CS undergrad @ EDU,Bangladesh</h3>
+<h3 align="center">Full Stack Developer @ Purple Tech | CS undergrad @ EDU,Bangladesh</h3>
 
 Founding Purple Tech, a company that builds own web apps to solve some real life problems, also ready to provides services.
 Computer Science Undergrad @ East Delta University.
