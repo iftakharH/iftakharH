@@ -4,7 +4,7 @@
 Founding Purple Tech, a company that builds own web apps to solve some real life problems, also ready to provides services.
 Computer Science Undergrad @ East Delta University.
 
-* 🌍  I'm based in Chattogram, Bangladesh
+* 🌍  Based in Chattogram, Bangladesh
 * 🖥️  See my portfolio at [Portfolio](http://iftakharh.vercel.app)
 * ✉️  You can contact me at [mail](mailto:ihrafi02ctg@gmail.com)
 * 🚀  I'm currently working on [Unimate](http://unimate-purple.vercel.app)
