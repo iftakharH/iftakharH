@@ -1,3 +1,25 @@
+Reorder Sections
+Preview
+Markdown
+Copy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Iftakhar Hossain
+=========================================================================================================================================
+
+Full Stack Developer @Purple Tech, CS Undergrad @EDU
+----------------------------------------------------
+
+Founding Purple Tech, a company that builds own web apps to solve some real life problems, also ready to provides services.
+
+Computer Science Undergrad @ East Delta University.
+
+* 🌍  I'm based in Chattogram, Bangladesh
+* 🖥️  See my portfolio at [Portfolio](http://iftakharh.vercel.app)
+* ✉️  You can contact me at [ihrafi02ctg@gmail.com](mailto:ihrafi02ctg@gmail.com)
+* 🚀  I'm currently working on [Unimate](http://unimate-purple.vercel.app)
+* 🧠  I'm currently learning Backend Perfectly
+* 👥  I'm looking to collaborate on any interesting projects
+* 💬  Ask me about A car guy, Spiderman
+
 <h1 align="center">Hi 👋, I'm IFTAKHAR HOSSAIN RAFI</h1>
 <h3 align="center">A passionate CS undergrad @ EDU,Bangladesh</h3>
 
