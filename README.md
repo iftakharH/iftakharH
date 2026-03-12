@@ -23,5 +23,4 @@ Computer Science Undergrad @ East Delta University.
 
 
 <a href="http://www.github.com/iftakharH"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iftakharH&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iftakharH&layout=compact&theme=radical)
