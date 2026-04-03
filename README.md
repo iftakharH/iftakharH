@@ -7,7 +7,7 @@ Computer Science Undergrad @ East Delta University.
 * 🌍  Based in Chattogram, Bangladesh
 * 🖥️  See my [Portfolio](http://iftakharh.vercel.app)
 * ✉️  You can contact me at [mail](mailto:ihrafi02ctg@gmail.com)
-* 🚀  currently working on [Unimate](http://unimate-purple.vercel.app), [Stacklens](http://stacklens-purple.vercel.app)
+* 🚀  currently working on [Unimate](http://unimate-purple.vercel.app), [FlowAI](http://flowai-purple.vercel.app)
 * 🧠  currently learning Backend Perfectly
 * 👥  I'm looking to collaborate on any interesting projects
 * 💬  Ask me about tech & cars
