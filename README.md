@@ -29,8 +29,8 @@ Open to collaborating on interesting projects. Ask me about **tech & cars**.
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**Unimate**](http://unimate-purple.vercel.app) | Productivity platform for university students | Next.js · Supabase |
-| [**FlowAI**](http://flowai-purple.vercel.app) | AI-powered workflow automation for modern teams | React · FastAPI · AI |
-
+| [**FlowAI**](http://flowai-purple.vercel.app) | AI-powered cashflow/Money Operating System. | React · FastAPI · AI |
+| [**ContentRepurp**](http://contentrepurp-purple.vercel.app) | AI-powered content repurposing SaaS application | MERN · OpenrouterAPI · AI |
 ---
 
 ## 🛠 Tech Stack
