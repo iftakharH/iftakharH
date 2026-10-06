@@ -18,7 +18,7 @@
 
 ## About
 
-Building **Purple Tech** — a company that ships web applications to solve real-world problems and delivers professional development services. I'm currently working on mastering backend architecture while building production-ready products.
+Building **Purple Tech** - a company that ships web applications to solve real-world problems and delivers professional development services. I'm currently working on mastering backend architecture while building production-ready products.
 
 Open to collaborating on interesting projects. Ask me about **tech & cars**.
 
