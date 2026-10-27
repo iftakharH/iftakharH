@@ -59,7 +59,7 @@ I am open to collaborating on interesting projects.
 **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux, Vite, Three.js, Framer Motion  
 **Backend:** Node.js, Express.js, FastAPI, REST APIs, Authentication  
 **Data:** PostgreSQL, MongoDB, MySQL, Supabase, Firebase, Neon DB  
-**Tools:** Git, Docker, AWS, Figma, TensorFlow
+**Tools:** Git, Docker, AWS, Figma, TensorFlow  
 **Other:** Python, AI integration
 
 ---
