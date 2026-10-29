@@ -48,7 +48,7 @@ I am open to collaborating on interesting projects.
 - **[DemoLMS](https://demolms.onrender.com/)** — Local e-learning MVP with courses, quizzes, grading, and certificates.
 - **[curabd.io](https://curabd-waiting.vercel.app)** — Landing page for an AI-powered health platform.
 - **[ContentRepurp](https://contentrepurp-purple.vercel.app)** — Repurposes one piece of content into posts for multiple platforms in one click.
-- **[Mood Playlist Maker](https://github.com/iftakharH/spotify-playlist-maker)** — Generates Spotify playlists from moods.
+- **[Mood Playlist Maker](https://spotify-playlist-maker-purple.vercel.app/)** — Generates Spotify playlists from moods.
 
 </details>
 
