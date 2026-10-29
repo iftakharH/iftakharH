@@ -45,7 +45,7 @@ I am open to collaborating on interesting projects.
 <summary><strong>More projects</strong></summary>
 
 - **[CV Maker](https://cv-maker-open.vercel.app)** — Browser-based ATS-friendly resume builder.
-- **[DemoLMS](https://github.com/iftakharH/demolms)** — Local e-learning MVP with courses, quizzes, grading, and certificates.
+- **[DemoLMS](https://demolms.onrender.com/)** — Local e-learning MVP with courses, quizzes, grading, and certificates.
 - **[curabd.io](https://curabd-waiting.vercel.app)** — Landing page for an AI-powered health platform.
 - **[ContentRepurp](https://contentrepurp-purple.vercel.app)** — Repurposes one piece of content into posts for multiple platforms in one click.
 - **[Mood Playlist Maker](https://github.com/iftakharH/spotify-playlist-maker)** — Generates Spotify playlists from moods.
@@ -60,7 +60,7 @@ I am open to collaborating on interesting projects.
 **Backend:** Node.js, Express.js, FastAPI, REST APIs, Authentication  
 **Data:** PostgreSQL, MongoDB, MySQL, Supabase, Firebase, Neon DB  
 **Tools:** Git, Docker, AWS, Figma, TensorFlow  
-**Other:** Python, AI integration
+**Other:** Python, AI integration 
 
 ---
 
