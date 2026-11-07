@@ -2,7 +2,7 @@
 
 # Iftakhar Hossain Rafi
 
-### AI native Full-Stack Developer · Computer Science Undergrad
+### AI native Software Developer · Computer Science Undergrad
 
 I build practical web products from idea to deployment. My main focus is
 React, Next.js, Node.js, and reliable backend systems.
